@@ -12,14 +12,18 @@
   
 - 📫 How to reach me: **figuefari@gmail.com**
 
-- ⚡ Fun fact: **While I have a background as an engineer in business administration, I have been closely connected to computers since childhood. At a young age, I assembled computers and spent time learning various things on internet forums. My first data analyses were done in games like Pokemon Red, where I created Excel templates to estimate the probability of Pokemon appearances by hour and area.**
+- ⚡ Fun fact: While I have a background as an engineer in business administration, I have been closely connected to computers since childhood. At a young age, I assembled computers and spent time learning various things on internet forums. My first data analyses were done in games like Pokemon Red, where I created Excel templates to estimate the probability of Pokemon appearances by hour and area.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h4 align="left">Connect with me!:</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/felipefigueroaf" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="120" height="80" /> </a>
+      
+
+<h4 align="left">Languages and Tools:</h4>
+<p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60" />
+          
+ </p>
 
 
 <!---
