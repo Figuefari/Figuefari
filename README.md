@@ -14,12 +14,12 @@
 
 - ⚡ Fun fact: While I have a background as an engineer in business administration, I have been closely connected to computers since childhood. At a young age, I assembled computers and spent time learning various things on internet forums. My first data analyses were done in games like Pokemon Red, where I created Excel templates to estimate the probability of Pokemon appearances by hour and area.
 
-<h4 align="left">Connect with me!:</h4>
+<h4 align="left">💻Connect with me!:</h4>
 
 <p align="left"> <a href="https://www.linkedin.com/in/felipefigueroaf" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="120" height="80" /> </a>
       
-
-<h4 align="left">Languages and Tools:</h4>
+---
+<h4 align="left">🛠️Languages and Tools:</h4>
 <p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="80" height="60"/>
@@ -28,15 +28,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="Sqlalchemy" width="90" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60" />
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" width="90" height="60" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" width="100" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="80" height="60" />
 <img src="https://miro.medium.com/v2/resize:fit:1344/format:webp/0*ojdu3YHkpKVBMWgP.png" alt="Scipy" width="90" height="60" />
 </p>
 
 
+---
+<h4 align="left">💼My projects:</h4>
 
-       
-          
+You can see some projects I have completed below⬇️, or you can click on this link ➡️  <a href="https://github.com/Figuefari?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fjXHKuAhHcolkiNyx9fvKA.jpeg" alt="Repository" width="80" height="15" /> </a> to view all the repositories. I have uploaded from the first to the last projects I completed for the TripleTen bootcamp. I have highlighted the latest ones, where you can see all my growth with these projects.
+
+
+            
           
 <!---
 Figuefari/Figuefari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
