@@ -22,8 +22,16 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60" />
-          
- </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="Sqlalchemy" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="60" height="60" />
+<img src="https://miro.medium.com/v2/resize:fit:1344/format:webp/0*ojdu3YHkpKVBMWgP.png" alt="Scipy" width="60" height="60" />
+</p>
 
 
 <!---
