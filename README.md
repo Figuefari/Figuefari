@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently discovering and learning new tools that allow me to present data clearly and effectively.
   
-- 👀 I’m interested in practicing and improving my skills in data science through projects from various areas. I am more than willing to spend hours and hours if the project involves data from the videogames or films industry 🎮🎦
+- 👀 I’m interested in practicing and improving my skills in data science through projects from various areas. I’m more than willing to spend hours and hours if the project involves any industry that I’m unfamiliar with, in order to learn from it.
 
 - I'm from Viña del Mar🌅, a beautiful coastal city in Chile 🇨🇱
   
