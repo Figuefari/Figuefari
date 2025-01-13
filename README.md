@@ -1,4 +1,4 @@
-![IMG_8719](https://github.com/Figuefari/Figuefari/assets/163902758/258cdafd-b8e2-443b-908e-5e4e5b15f0c8)
+![linkedinBanner](https://github.com/user-attachments/assets/6c3d1ac0-70e4-4236-9b90-d8c13762305d)
 
 
 <h2 align="center">Hi! 🙂👋, I'm an engineer who is growing in the world of data analysis📈</h2>
